@@ -2,7 +2,7 @@
     <string name="app_name">Test App</string>
     <string name="question_label_text">Who are you?</string>
     <string name="text_field_text">Input answer here:</string>
-    <string name="button_text">Submit</string>
+    <string name="submit_button">Submit</string>
     <string name="answer_label_default">........</string>
     <string name="answer_label_correct">Correct</string>
     <string name="answer_label_incorrect">Incorrect</string>
